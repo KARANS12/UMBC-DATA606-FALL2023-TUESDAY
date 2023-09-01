@@ -51,8 +51,14 @@ A mapping engine that misguides you:
 ### <span>University of Maryland, Baltimore County</span> <span>2022 -- 2023</span>
 
   - GPA 3.67
-  - DB1101 - Basic SQL
-  - CS2011 - Java Introduction
+  - DATA 604 Data Management
+  - DATA 601 Introduction to Data Science
+  - ENMG 652 Management, Leadership and Communication
+  - DATA 603 Platforms for Big Data Processing
+  - DATA 602 Intro to Data Analysis and Machine Learning
+  - ENMG 650 Project Management Fundamentals
+  - DATA 690 Special Topics in Data Science
+  - CYBR 652 Enterprise Security
 
 ## Skills
 
