@@ -40,19 +40,19 @@ Global movement of free coding clubs for young people.
 
 ### <span>Miss Direction</span> <span>Aug 2016</span>
 
-Interpolation of the Histogramed MR Brain Images for Resolution Enhancement 
+- Interpolation of the Histogramed MR Brain Images for Resolution Enhancement 
 •	Basically, incured high contrast in the image, intensity equalization method.
 •	Used Resolution Enhancement methods: Histogram Equalization, Adaptive Histogram Equalization and Interpolation 
 •	By applying the Machine Learning algorithms to improve the Resolution of the MRI Image for early detection of any Brain Disease more clearly.
-Corona Virus Infection Detection Probability Classification Using Machine Learning
+- Corona Virus Infection Detection Probability Classification Using Machine Learning
 •	Created an early detection model where patients can give input and can easily know if they have been affected by the deadly virus without the immediate need of any medical help.
 •	I used the data of the previously infected patients to predict the new input’s output of the patients by using machine learning algorithms such as Support Vector Machine, Decision Tree and Random Forest Tree. 
- House Price Prediction Model by Using Machine Learning 
+- House Price Prediction Model by Using Machine Learning 
 •	Through linear regression I was able to predict the prices of houses on my given desired input to the model. People may typically visit a home and obtain a firsthand idea when they wish to buy or rent it but with a model like this can help understand and predict the outcome with our own set of input based on the desired condition which can give you the predicted result through which we can modify or change according to our requirement.
- ATM Transaction Analysis by Using Amazon Web Services (AWS) with SQL 
+ - ATM Transaction Analysis by Using Amazon Web Services (AWS) with SQL 
 •	Utilized services like AWS S3, AWS Glue DataBrew, and Amazon Redshift to develop a complete data analytics project.
 •	Visualized the data using Tableau. 
-Prediction of CO2 Emission from Vehicles by Machine Learning
+- Prediction of CO2 Emission from Vehicles by Machine Learning
 •	In this project, I used a dataset of vehicle CO2 emissions from Official Canada’s government dataset and various features such as fuel consumption and engine size to predict the CO2 emissions of a vehicle.
 •	Then used the exploratory data analysis to understand the distribution of the data and the relationship between the features and the target variable.
 •	I built different models of all Regression Models, Tree Regressors, Neural Network and tuned XGBoost and Laso Polynomial regression to predict the amount of CO2 emitted from vehicles and see which model can predict the different classes in a better way.
