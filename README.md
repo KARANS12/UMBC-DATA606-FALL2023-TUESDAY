@@ -7,7 +7,6 @@
 line. It is intended to be used for contact details -->
 - <royalharmankaran@gmail.com>
 - 443-477-8665
-- [richardhendricks.example.com](http://richardhendricks.example.com)
 - Baltimore, MD
 
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It
