@@ -56,5 +56,8 @@ A mapping engine that misguides you:
 
 ## Skills
 
- - Web development: HTML, CSS, JavaScript
- - Compression: Mpeg, MP4, GIF
+- Programming :	Python, Java, C, C# , .Net
+- Web Technologies :	HTML, CSS, JavaScript
+- Databases :	SQL, MYSQL
+- Software and Tools	: Visual Studio, Excel, Eclipse, Jupyter Notebook
+- Other Technical Skills	: GitHub 
